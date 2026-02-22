@@ -1,3 +1,11 @@
+> ⚠️ **DEPRECATION NOTICE** ⚠️
+>
+> I've re-implemented the tool with AgentSkill. Check out https://github.com/ZhengHe-MD/ZhengHe-MD/tree/main/skills/engoo-daily-news-writer.
+>
+> If you happen to use Claude Code, just:
+> - Add ZhengHe-MD/ZhengHe-MD to the marketplace.
+> - For other platforms like Manus, manually install from the new implementation repository.
+
 # Engoo Daily News Writer
 
 An agentic system built with LangGraph that converts online blog posts and articles into Engoo daily news format, perfect for ESL (English as a Second Language) teachers and students.
